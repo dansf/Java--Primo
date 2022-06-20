@@ -13,6 +13,9 @@ Atividade para recobrir se o número é primo ou não.<br>O procedimento utiliza
   Para imprimir o código pelo terminal ```Prompt``` é nescessário editar o arquivo ```settings.json``` que está na pasta ```.vscode``` com a seguinte linha de código: ```"java.debug.settings.console": "externalTerminal",```.
   <br/><br/>Ou no próprio ```settings.json``` padrão do VsCode. Que se encontra nas configurações da IDE: 
   <br/>
+  
+  ![Imagem](https://user-images.githubusercontent.com/63010902/160854616-518d1d5d-4c19-455b-96eb-2d8f2d1b926c.png)
+ 
 
 #### Questão
 ![image](https://user-images.githubusercontent.com/63010902/174504760-24fdcf8a-af2f-42da-8d38-75ef88229fc6.png)
